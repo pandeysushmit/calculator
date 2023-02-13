@@ -5,7 +5,7 @@
 	font-family: sans-serif;
 }
 body{
-	background-image: url("bg_image.jpg");
+	background-image: url("https://github.com/pandeysushmit/calculator/main/assets/bg_image.jpg");
 }
 .app {
 	display: flex;
